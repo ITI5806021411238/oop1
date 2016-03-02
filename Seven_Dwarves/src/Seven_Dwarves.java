@@ -1,3 +1,4 @@
+//ข้อ1  
 import java.util.Scanner;
 public class Seven_Dwarves {
 
@@ -11,7 +12,7 @@ public class Seven_Dwarves {
 		a2 = scan.nextInt();
 		System.out.print("Enter Number 3 : ");
 		a3 = scan.nextInt();
-		System.out.print("Enter Number 4 : ");
+		System.out.print("Enter Number 4 : 20");
 		a4 = scan.nextInt();
 		System.out.print("Enter Number 5 : ");
 		a5 = scan.nextInt();

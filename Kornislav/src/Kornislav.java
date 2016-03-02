@@ -1,3 +1,4 @@
+// ข้อ3
 import java.util.Scanner;
 public class Kornislav {
 

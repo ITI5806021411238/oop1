@@ -1,3 +1,4 @@
+// ข้อ2
 import java.util.Scanner;
 public class Trik {
 
